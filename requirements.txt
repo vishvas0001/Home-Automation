@@ -1,0 +1,10 @@
+Android Application (Blynk App)
+NodeMCU Module Controller Software(Arduino IDE 1.8.15)
+NodeMCU Module
+Connecting Wires (female to female)
+Relay-2 Module (5v)
+Main Leads 2 
+LED Bulb Holder
+LED Bulb
+Extension Board
+PCB
