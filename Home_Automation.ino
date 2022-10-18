@@ -1,4 +1,4 @@
-# (To Control LED light from Laptop/Pc)
+# (To Control from Laptop/Pc)
 
 void setup()
 {
@@ -15,13 +15,13 @@ delay(100);
 
 
 
-# (To Control LED light from Mobile Phone)
+# (To Control from Mobile Phone)
 
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 
 char auth[] = "TOKEN-ID"
-char ssid[] = "VISHVAS"
+char ssid[] = "itronix"
 char Pass[] = "12345678"
 
 void setup()
